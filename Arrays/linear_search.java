@@ -15,5 +15,6 @@ public class linear_search {
         int require_num = 12;
         int index = linear_search(nums, require_num);
         System.out.println(index);
+        int a = 5;
     }
 }
