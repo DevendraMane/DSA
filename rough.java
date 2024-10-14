@@ -6,6 +6,7 @@ public class rough {
         System.out.print("Enter a num:");
         int num = sc.nextInt();
         System.out.println("the number is :" + num);
+        
 
     }
 }
